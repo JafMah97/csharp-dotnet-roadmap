@@ -24,7 +24,7 @@
 | **Module 03** | Perform Basic String Formatting in C# | ✅ Completed | [View Module](./csharp-foundations/Module03-PerformBasicStringFormatting/) |
 | **Module 04** | Perform Basic Operations on Numbers in C# | ✅ Completed | [View Module](./csharp-foundations/Module04-PerformBasicOperationsOnNumbers/) |
 | **Module 05** | Guided Project - Calculate & Print Student Grades | ✅ Completed | [View Module](./csharp-foundations/Module05-GuidedProject-CalculateAndPrintStudentGrades/) |
-| **Module 06** | Guided Project - Calculate Final GPA | ⏳ Pending | — |
+| **Module 06** | Guided Project - Calculate Final GPA | ✅ Completed | [View Module](./csharp-foundations/Module06-GuidedProject-CalculateFinalGPA/) |
 1. **Navigate to the module directory:**
    ```bash
    cd csharp-foundations/Module01-WriteFirstCode
