@@ -1,6 +1,6 @@
 <h1 align="center"> 🏫 C# Learning journey 🏫</h1>
 
-> All the text here is NOT AI Generated, I wrote it my self, I used AI for review and styling, and the files for documentation purposes only.
+> All text here is written by me. I used AI only for review and formatting.
 
 <p align="center">
   Welcome to my C# learning repository following the Microsoft Learn & freeCodeCamp tracks.
